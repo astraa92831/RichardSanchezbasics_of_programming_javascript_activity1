@@ -1,4 +1,4 @@
-//control nlng po sir kung mag papalit po kayo age dito sa var age tapos run po ulit 
+//control S nlng po sir kung mag papalit po kayo age dito sa var age tapos run po ulit 
 var age = 10;
 
     if  (age>= 60) {
